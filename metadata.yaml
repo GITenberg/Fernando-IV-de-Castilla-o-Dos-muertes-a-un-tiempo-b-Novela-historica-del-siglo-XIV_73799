@@ -1,0 +1,28 @@
+_repo: Fernando-IV-de-Castilla-o-Dos-muertes-a-un-tiempo-b-Novela-historica-del-siglo-XIV_73799
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Bolangero, Víctor África
+    gutenberg_agent_id: '57222'
+    url: http://www.gutenberg.org/2009/agents/57222
+description: ''
+gutenberg_issued: '2024-06-09'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '73799'
+language: es
+pgterms:marc904: https://bibliotecadigital.jcyl.es/es/consulta/registro.do?id=19107
+pgterms:marc905: 20240424155233bolangero
+pgterms:marc906: '1849'
+pgterms:marc907: ES
+production_note: Ramón Pajares Box (This file was produced from images generously
+  made available by Biblioteca digital de Castilla y León).
+publication_note: '  $aMadrid :$bEstablecimiento Tipográfico de José G. Márquez, $c1849.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Fernando IV de Castilla o Dos muertes a un tiempo : $b Novela histórica del
+  siglo XIV'
+url: http://www.gutenberg.org/ebooks/73799
